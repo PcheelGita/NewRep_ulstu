@@ -3,11 +3,12 @@
 int main() {
     int number;
 
-    printf("Введите целое число: ");
+    printf("Г‚ГўГҐГ¤ГЁГІГҐ Г¶ГҐГ«Г®ГҐ Г·ГЁГ±Г«Г®: ");
     scanf_s("%d", &number);
 
-    printf("Остаток от деления на 3: %d\n", number % 3);
+    printf("ГЋГ±ГІГ ГІГ®ГЄ Г®ГІ Г¤ГҐГ«ГҐГ­ГЁГї Г­Г  3: %d\n", number % 3);
 
     return 0;
 }
 // fgijbnfginm
+// im really tired
