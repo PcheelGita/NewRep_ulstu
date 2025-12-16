@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//im very vry tired
 int main() {
     int number;
 
